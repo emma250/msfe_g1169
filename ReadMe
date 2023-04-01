@@ -1,0 +1,8 @@
+This repo is to execute and deploy the solution to calculate F-Score 
+and modified F-Score on any data for the measurement of the value performance. 
+
+First clone the repository using git clone. 
+Second install all the packages using 'pip install -r requirements.txt'
+Third sign up for an API with https://site.financialmodelingprep.com/developer/docs/
+Store the API either in a SECRETS, CONFIG or use it in the notebooks but remove it if ever publishing on the web about your solution.
+Just execute the code via the kernel and it should generate all the charts for your analysis comparing various markets if needed. 

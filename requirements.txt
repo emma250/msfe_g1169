@@ -1,0 +1,7 @@
+pandas
+numpy
+nsepy
+fundamentalanalysis
+sklearn
+matplotlib
+seaborn
